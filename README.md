@@ -50,3 +50,5 @@ We are very grateful for the support of the IEEE Geoscience and Remote Sensing S
 For more information on the data of Track 4:
 X. Sun, A. Shi, H. Huang, H. Mayer. BAS4Net: Boundary-Aware Semi-Supervised Semantic Segmentation Network for Very High-Resolution Remote Sensing Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2020. DOI: 10.1109/JSTARS.2020.3021098.
 
+We have constructed the largest remote sensing image fine-grained target recognition data set FAIR1M, and released it to the world. The relevant data set papers have been synchronized and open source. For details, please refer to: FAIR1M: A Benchmark Dataset for Fine-grained Object Recognition in High-Resolution Remote Sensing Imagery[J]. arXiv preprint arXiv:2103.05569, 2021. (Data set paper link address: https://arxiv.org/abs/2103.05569)
+
