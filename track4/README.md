@@ -26,21 +26,8 @@ PSPNet baseline for semantic segmentation tracks in 2020 Gaofen Challenge is wri
 * Prepare the `$DATASET$_colors.txt` and `$DATASET$_names.txt` accordingly. Get the training/testing ground truths and lists ready.
 
 
-### Training
-Command line arguments are used to determine train mode for semantic segmentation tracks of Gaofen Challenge. 
-
-* Train with a single GPU
-
-```
-python train.py --config ${CONFIG_FILE}
-```
-
-### Testing
-
-* Test with a  single GPU
- ```
- python test.py --config ${CONFIG_FILE}
- ```
+### Code
+The code will be available soon.
 
 ### Result
 
